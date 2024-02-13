@@ -1,0 +1,233 @@
+:root {
+    --text-colors: #010715;
+    --highlight-colors: #5f0765;
+    --background-color: #e7e7e7;
+    --hero-color: #010715;
+}
+
+/* Section for top paragraph */
+h1, h2, h3 , h4, h5, h6 {
+    font-family: 'times new roman', serif;
+    font-weight: 700;
+}
+body {
+    font-family: 'times new roman', serif;
+    font-weight: 400;
+}
+
+#aboutMe h2,
+#portfolio h2,
+#contact h2,
+.nav-item a,
+.textBorder p {
+    color: var(--text-colors);
+}
+
+/* Main logo/ nav */
+
+.customNav {
+    position: relative;
+    width: 100%;
+}
+
+#navName {
+    color: var(--text-colors);
+    font-size: 35px;
+    font-weight: 600;
+    background: var(--highlight-colors);
+    padding-right: 10px;
+    padding-left: 25px;
+    margin-left: -15px;
+    border-radius: 5px;
+}
+.navbar {
+    background-color: var(--background-color);
+    position: fixed;
+    z-index: 1;
+
+}
+.navbar-nav {
+    margin-left: auto;
+    margin-right: 0 !important;
+}
+
+.nav-item {
+    margin: 0px 15px;
+    font-weight: 600;
+}
+
+.nav-item a:hover,
+.nav-item a:active {
+    color: var(--highlight-colors);
+    border-bottom: 3px solid var(--highlight-colors);
+}
+
+/* Hero Section */
+
+header.masthead {
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 0px;
+    background-color: var(--hero-color);
+}
+
+header.masthead .image-container {
+    max-width: 359px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.img-fluid {
+    border-bottom: solid var(--highlight-colors);
+    border-bottom-right-radius: 50%;
+    border-width: 5px;
+}
+
+header.masthead .header-content {
+    max-width: 550px;
+    text-align: center;
+}
+
+header.masthead .header-content h1 {
+    font-size: 55px;
+}
+
+header.masthead .header-content h2 {
+    font-size: 40px;
+    font-weight: 600;
+}
+
+header.masthead .header-content p {
+    font-size: 25px;
+}
+
+header.masthead .header-content {
+    color: var(--background-color);
+    padding-bottom: 10px;
+}
+
+.btn-outline-light {
+    background-color: var(--highlight-colors);
+    color: var(--background-color);
+    border: 1px solid #010715;
+    font-weight: 600;
+}
+
+/* About Me */
+.aboutMe {
+    padding-top: 30px;
+}
+
+.aboutMe .textBorder {
+border-left: 5px solid var(--text-colors);
+}
+
+
+.about-image img {
+    position: relative;
+    width: 230px;
+    float: right;
+    border: 3px solid var(--highlight-colors);
+    border-radius: 50%;
+    shape-outside: circle(50%);
+    shape-margin: 0.5rem;  
+}
+
+/* My Work */
+.myWork {
+    padding-top: 30px;
+    position: relative;
+    padding-bottom: 0px;
+}
+
+.myWork .workBorder .pBorder img {
+    width: 100%;
+    height: 300px;
+}
+
+.myWork .workBorder .pBorder {
+padding: 1%;
+justify-content: space-around;
+margin-bottom: 20px;
+}
+
+.myCard {
+    margin-bottom: 20px;
+    border: 5px solid var(--highlight-colors);
+    background-color: #010715;
+}
+
+.myCard:hover {
+    background: radial-gradient(rgba(0, 0, 0, 0.105), var(--highlight-colors));
+    transform: scale(1.05);
+}
+
+.workBorder {
+    border-left: 5px solid var(--text-colors);
+}
+.cardText {
+    display: table;
+    background-color: var(--highlight-colors);
+    top: 190px;
+    color: var(--text-colors);
+}
+
+
+/* Skills Section */
+
+.skills-section {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: var(--text-colors);
+}
+
+.skillsBorder {
+    border-left: 5px solid var(--text-colors); 
+}
+
+h5.card-text {
+    color: var(--text-colors);
+}
+
+h5 i.bi {
+    color: var(--highlight-colors);
+}
+
+/* Contact Section */
+
+.contact-section {
+    padding-top: 30px;
+    padding-bottom: 30px;   
+}
+
+.contact-section .social a {
+    text-align: center;
+    height: 4rem;
+    width: 4rem;
+    background: var(--text-colors);
+    border-radius: 100%;
+    line-height: 4rem;
+    color: var(--background-color);
+    font-size: 25px;
+}
+
+.contact-section .social a:hover {
+    background: var(--highlight-colors);
+    box-shadow: 5px 2px 2px var(--text-colors);
+    transform: scale(1.2);
+}
+
+.contactIcons {
+    border-left: 5px solid var(--text-colors);
+}
+
+/* Footer Section */
+
+.foot-container {
+background-color: var(--text-colors);
+text-align: center;
+}
+
+.foot-container p {
+margin-bottom: 0rem;
+color: var(--background-color);
+}
