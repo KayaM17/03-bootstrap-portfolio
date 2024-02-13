@@ -167,7 +167,7 @@ License
 Licensed under the MIT License
 
 GitHub Repository
-URL: 
+URL: https://github.com/KayaM17/03-bootstrap-portfolio
 
 Deployed Web Application
-URL: 
+URL: https://kayam17.github.io/03-bootstrap-portfolio/
