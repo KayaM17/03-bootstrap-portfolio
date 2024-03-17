@@ -94,7 +94,7 @@ Youtube - Tutorials
 
 - [Github Pages Guide](https://pages.github.com/)
 
-License
+## License
 
 Licensed under the MIT License
 
