@@ -17,11 +17,6 @@ In this project, I created a portfolio website to showcase my projects, skills, 
 - **Version Control:** Git
 - **Hosting:** GitHub Pages
 
-## Bootstrap Portfolio
-* Note This is a screenshot of the deployed portfolio on Laptop screen.
-![Alt text](<images/bootstap screenshot.png>)
-
-
 ## Development Process
 
 I started by sketching out the layout and design of the portfolio, envisioning how I wanted it to look and function. Bootstrap's grid system and components provided a solid foundation, allowing me to quickly build and prototype different sections of the portfolio.
