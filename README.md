@@ -1,107 +1,41 @@
-# Unit 3 Challenge: Code Bootstrap Portfolio
+# Bootstrap Portfolio
 
-## Description
-
-You'll be building your portfolio layout using the Bootstrap CSS Framework.
+Welcome to my Bootstrap portfolio! I'm excited to share how I built this showcase of my work using the Bootstrap framework.
 
 
-## Instructions
+## Intriduction
 
-1. Create a new GitHub repositories and name it `Bootstrap-Portfolio`.
+In this project, I created a portfolio website to showcase my projects, skills, and experience. Utilizing Bootstrap, I aimed to build a responsive and visually appealing portfolio that highlights my work and abilities in web development.
 
-2. Clone this repository to your computer.
+## Technologies Used
 
-3. Inside your `Bootstrap-Portfolio` repo, create the folder structure for the webpage.
-   
-   - Create a folder structure.
-
-     - Create a `index.html`.
-
-     - Create a `css` folder.
-
-       - Inside create a `style.css` file.
-
-   - Create an `images` folder.
-
-       - Place all your images in this folder.
-
-4. Using Bootstrap, recreate your portfolio site with the following items:
-
-   The website should include the following bootstrap components:
-
-    - A Navigation bar
-    
-    - A navigation menu at the top. Feel free to use the navbar code provided in Bootstrap's documentation, or create your own navbar by applying the correct Bootstrap classes to your HTML.
-
-      - Include links that are applicable to your portfolio.
-  
-        - Links should navigate to the appropriate sections 
-
-    - A hero section
-
-        - A jumbotron featuring your picture, your name, and any other information you'd like to include.
-
-    - A work section
-
-      - A section displaying your work in grid. 
-
-        - If you need to use placeholder image use: https://placehold.co/ 
-
-      - Use bootstrap cards for each project.
-
-        - The description should give a brief overview of the work.
-
-      - Each project will eventually link to your class project work!
-
-    - A skills section
-
-      - List out the skills you expect to learn from the bootcamp.
-
-    - An about / contact section.
-
-      - An "About Me" section in the same row.
-    
-    - A footer section.
-
-      - All hyperlinks should have a hover effect.
-
-      - All buttons should display a box shadow upon hover.
-
-5. Your Bootstrap solution should minimize use of media queries.
-
-6. Deploy your new Bootstrap-powered portfolio to GitHub Pages.
-
+- **HTML:** Used for structuring the web pages.
+- **CSS:** Used for styling and layout.
+- **Bootstrap:** Utilized for responsive design and pre-built components.
+- **jQuery:** Used for interactivity and DOM manipulation.
+- **Development Environment:** Visual Studio Code
+- **Version Control:** Git
+- **Hosting:** GitHub Pages
 
 ## Bootstrap Portfolio
 * Note This is a screenshot of the deployed portfolio on Laptop screen.
 ![Alt text](<images/bootstap screenshot.png>)
 
 
+## Development Process
 
-## References
+I started by sketching out the layout and design of the portfolio, envisioning how I wanted it to look and function. Bootstrap's grid system and components provided a solid foundation, allowing me to quickly build and prototype different sections of the portfolio.
 
-W3 Schools - Tutorials
+One of the main challenges I faced during development was customizing the Bootstrap components to match the desired design aesthetic. While Bootstrap offers a wide range of pre-built components, tailoring them to fit my specific vision required careful tweaking and experimentation.
 
-Youtube - Tutorials
+Another challenge was ensuring that the portfolio remained responsive and accessible across various devices and screen sizes. Bootstrap's responsive utilities proved invaluable in achieving this goal, but fine-tuning the layout and styling for different breakpoints required attention to detail and thorough testing.
 
-- [Bootstrap Documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+## Future Improvements
 
-- [Responsive Web Design - How to Create Media Queries](https://www.youtube.com/watch?v=5xzaGSYd7jM)
+In the future, I plan to further enhance my portfolio by adding more interactive elements, such as animations and dynamic content. I also aim to continuously update and refine the content to reflect my latest projects and skills.
 
-- [Media Queries 101 by CSS Tricks](https://css-tricks.com/css-media-queries/)
+## Conclusion
 
-- [Media Query Documentation](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+Creating this Bootstrap portfolio was a rewarding journey that allowed me to showcase my creativity and technical skills in web development. I'm proud of the final product and excited to share it with the world as a representation of my capabilities.
 
-- [Github Pages Guide](https://pages.github.com/)
-
-## License
-
-Licensed under the MIT License
-
-## Repository's
-
-GitHub Repository
-URL: https://github.com/KayaM17/03-bootstrap-portfolio
-
-Deployed Web Application
-URL: https://kayam17.github.io/03-bootstrap-portfolio/
+If you have any feedback or suggestions for improvement, please feel free to get in touch. Thank you for exploring my Bootstrap portfolio!
