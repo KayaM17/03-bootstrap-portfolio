@@ -3,7 +3,7 @@
 Welcome to my Bootstrap portfolio! I'm excited to share how I built this showcase of my work using the Bootstrap framework.
 
 
-## Intriduction
+## Introduction
 
 In this project, I created a portfolio website to showcase my projects, skills, and experience. Utilizing Bootstrap, I aimed to build a responsive and visually appealing portfolio that highlights my work and abilities in web development.
 
