@@ -13,9 +13,7 @@ In this project, I created a portfolio website to showcase my projects, skills, 
 - **CSS:** Used for styling and layout.
 - **Bootstrap:** Utilized for responsive design and pre-built components.
 - **jQuery:** Used for interactivity and DOM manipulation.
-- **Development Environment:** Visual Studio Code
-- **Version Control:** Git
-- **Hosting:** GitHub Pages
+
 
 ## Development Process
 
